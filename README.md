@@ -147,7 +147,7 @@ This report was prepared for an academic project evaluation.
 
 ## License & Usage
 
-This project is licensed under the MIT License.
+This project is published for educational purposes.
 
 You are allowed to:
 - use, modify, and distribute the code,
